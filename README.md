@@ -28,4 +28,3 @@ Linux & administration serveur, réseau, Vagrant, Bash/YAML/JSON, AWS (IAM, EC2,
 
 - [Portfolio](https://github.com/samueldev-del/portfolio-samueldt)
 - Matériel du cours : [imnowdevops/ddc-material](https://github.com/imnowdevops/ddc-material)
-## Test SSH réussi
